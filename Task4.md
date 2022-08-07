@@ -43,7 +43,7 @@ $ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
 # SLAM
 ### install SLAM : 
 ``` 
-$ sudo apt-get install ros-melodic-gmapping ros-melodic-navigation
+$ sudo apt-get install ros-noetic-gmapping ros-noetic-navigation
 
 ``` 
 ###  on a new terminal that we already intiated,Lunch Simulation world  :
